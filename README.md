@@ -3,7 +3,7 @@ Sentiment Analysis of Movie Reviews using Natural Language Processing with Toxic
 
 Data Preprocessing - test and train datasets present in multiple txt files are combined together. (Refer to combine_reviews.docx) 
 
-Normalization techniques such as Lemmatization and Stemming are implemented to clean data.
+Normalization techniques such as Lemmatization and Stemming are implemented to enhance the NLP model.
 
 Feature Extraction Models Used: Bag of Words, N-Gram, Word Count and TF-IDF.
 
