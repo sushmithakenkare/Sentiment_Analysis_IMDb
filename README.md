@@ -1,7 +1,7 @@
 # Sentiment_Analysis_IMDb - Brief Overview
 Sentiment Analysis of Movie Reviews using Natural Language Processing with Toxic Comment Detection
 
-Data Preprocessing - test and train data present in multiple txt files are combined together. (Refer to combine_reviews.docx) 
+Data Preprocessing - test and train datasets present in multiple txt files are combined together. (Refer to combine_reviews.docx) 
 
 Normalization techniques such as Lemmatization and Stemming are implemented to clean data.
 
